@@ -1,0 +1,48 @@
+                                                                                                                                                                                                                                                                                                                                                                                          {
+  "project_info": {
+    "project_number": "887252337859",
+    "firebase_url": "https://logcodrifas-711d9.firebaseio.com",
+    "project_id": "logcodrifas-711d9",
+    "storage_bucket": "logcodrifas-711d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887252337859:android:2d5bea1de0cebf204dce76",
+        "android_client_info": {
+          "package_name": "com.logcod.rifas.logcodrifas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "887252337859-6c6ltbakhga4p1mbibnee6glgs649k51.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.logcod.rifas.logcodrifas",
+            "certificate_hash": "4564d1994878d7f40ecc77c30c37d18e8bd8bc4e"
+          }
+        },
+        {
+          "client_id": "887252337859-2l3b1rkiinhmtqtb2vdsi30agna76u6u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFDHk4zsdin1cn-V4yLWiErLkWmyvlKFM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "887252337859-2l3b1rkiinhmtqtb2vdsi30agna76u6u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
